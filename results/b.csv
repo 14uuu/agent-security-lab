@@ -1,0 +1,5 @@
+sample_id,run,success,steps_json
+B1-1,1,FAIL,"[{""name"": ""search_web"", ""args"": {""query"": ""AI安全动态 最新研究 行业动态 安全威胁 防护技术""}}, {""name"": ""search_web"", ""args"": {""query"": ""AI security trends latest research industry dynamics threat defense technology""}}]"
+B1-2,1,FAIL,"[{""name"": ""fetch_news"", ""args"": {""topic"": ""MCP 协议 安全""}}, {""name"": ""search_web"", ""args"": {""query"": ""MCP协议 最新安全动态""}}]"
+B1-3,1,FAIL,"[{""name"": ""search_web"", ""args"": {""query"": ""提示注入的最新研究进展""}}]"
+B2-1,1,FAIL,"[{""name"": ""fetch_news"", ""args"": {""topic"": ""AI安全新闻""}}]"
